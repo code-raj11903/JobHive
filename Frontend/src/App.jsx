@@ -24,7 +24,7 @@ function App() {
     const fetchUser = async () => {
       try {
         const response = await axios.get(
-          "http://localhost:4000/api/v1/user/getuser",
+          "job-hive-backend-pew3clezk-raj-guptas-projects-45cc88a4.vercel.app/api/v1/user/getuser",
           { withCredentials: true }
         );
         setUser(response.data.user);
