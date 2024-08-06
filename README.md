@@ -80,7 +80,7 @@ JobHive is a comprehensive MERN stack application designed to facilitate job see
    CLOUDINARY_CLIENT_SECRET=
    FRONTEND_URL=
    MONGO_URI= 
-   JWT_SECRET_KEY=eyJhbGciOiJIUzI1NiJ9
+   JWT_SECRET_KEY=
    JWT_EXPIRES=7d
    COOKIE_EXPIRE=5
    ```
